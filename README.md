@@ -1,2 +1,2 @@
-# mri-data-classification-with-vision-transformer-model-lp-author
-Repository for liveProject: MRI Data Classification with Vision Transformer Model
+# explainable-ai-image-classification-lp-author
+Repository for liveProject: Image Classification
