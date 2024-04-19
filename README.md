@@ -1,2 +1,2 @@
-# explainable-ai-image-classification-lp-author
+# Explainable AI: Image Classification
 Repository for liveProject: Image Classification
